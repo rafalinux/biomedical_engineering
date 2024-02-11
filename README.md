@@ -16,3 +16,5 @@ Here I will upload the topics as I explain them in class. All in PDF, made with 
 - COPD
 - Thromboembolic events (deep venous thrombosis and pulmonary embolism)
 - Sleep apnea syndrome
+- Diseases of the pulmonary pleura
+- Lung cancer
