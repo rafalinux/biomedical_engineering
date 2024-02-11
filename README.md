@@ -9,7 +9,7 @@ Here I will upload the topics as I explain them in class. All in PDF, made with 
 - Valve heart diseases
 - Electrocardiography
 - Upper respiratory infectios
-- Lower respiratory infections: Peumonia and Acute bronchitis
+- Lower respiratory infections: Pneumonia and Acute bronchitis
 - Lower Respiratory Infections: Bronchiectasis and Lung abscess
 - Asthma
 - COPD
