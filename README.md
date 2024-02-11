@@ -8,7 +8,8 @@ Here I will upload the topics as I explain them in class. All in PDF, made with 
 - Endocarditis
 - Valve heart diseases
 - Electrocardiography
-- Upper respiratory infectios
+- Diagnosis of respiratory diseases
+- Upper respiratory infections
 - Lower respiratory infections: Pneumonia and Acute bronchitis
 - Lower Respiratory Infections: Bronchiectasis and Lung abscess
 - Asthma
