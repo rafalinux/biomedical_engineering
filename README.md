@@ -5,9 +5,14 @@ Here I will upload the topics as I explain them in class. All in PDF, made with 
 
  ## List of topics
 
+ ### Cardiology
+ 
 - Endocarditis
 - Valve heart diseases
 - Electrocardiography
+
+ ### Respiratory Diseases
+ 
 - Diagnosis of respiratory diseases
 - Upper respiratory infections
 - Lower respiratory infections: Pneumonia and Acute bronchitis
@@ -18,3 +23,12 @@ Here I will upload the topics as I explain them in class. All in PDF, made with 
 - Sleep apnea syndrome
 - Diseases of the pulmonary pleura
 - Lung cancer
+
+ ### Neurology
+ 
+ - Approach to Neurology
+ - Cerebrovascular Diseases
+ - Dementia and Cognitive Disorders
+ - Seizures and Epilepsy
+ 
+ Las updated: 17 February 2024
