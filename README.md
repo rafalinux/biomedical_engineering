@@ -30,5 +30,11 @@ Here I will upload the topics as I explain them in class. All in PDF, made with 
  - Cerebrovascular Diseases
  - Dementia and Cognitive Disorders
  - Seizures and Epilepsy
+
+### Digestive Diseases
+
+- Pancreas diseases
+- Bile Duct Diseases
+- Malnutrition and Obesity
  
- Las updated: 17 February 2024
+ Last updated: 10 March 2024
