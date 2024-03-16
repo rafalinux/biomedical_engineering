@@ -36,5 +36,10 @@ Here I will upload the topics as I explain them in class. All in PDF, made with 
 - Pancreas diseases
 - Bile Duct Diseases
 - Malnutrition and Obesity
+
+### Endocrinology
+
+- Diabetes mellitus
+- Diseases of the thyroid gland
  
- Last updated: 10 March 2024
+ Last updated: 16 March 2024
