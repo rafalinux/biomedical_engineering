@@ -16,8 +16,8 @@ Welcome to the Cardiology Lecture Series! This repository contains a collection 
 4. **ECG, Ischemic Heart Disease and Arrhythmias**  
    - Basics of ECG interpretation, ischemic heart disease, and arrhythmias.
 
-5. **Infective Endocarditis and Valvulopathy**  
-   - Diagnosis and management of infective endocarditis and valvular heart diseases.
+5. **Heart Failure and Valvulopathy**  
+   - Diagnosis and management of heart failure and valvular heart diseases.
 
 ## How to Use This Repository
 
