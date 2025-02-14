@@ -31,7 +31,7 @@ If you have additional resources or improvements to the lectures, feel free to o
 
 ## License
 
-This work is licensed under the Creative Commons Attribution 4.0 International License. Since this content is shared under an open license to promote academic collaboration, please refer to the LICENSE file for more details.
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material, as long as you provide appropriate credit to the original author. Since this content is shared under an open license to promote academic collaboration, please refer to the LICENSE file for more details.
 
 ---
 
