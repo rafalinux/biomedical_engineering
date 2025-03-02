@@ -7,7 +7,6 @@ Students will do a group work and will prepare a 7-minutes presentation. These a
 -  However, since the teacher understands LaTeX can be hard to learn, documents also can be formatted with MarkDown. The aim is to have a nice PDF document rather than a messy MS Word document.
 - The manuscript can include figures and tables if students consider so. However, the extension of the manuscript should be no more than 12 pages. Have in mind that the content of this work should be lectured in a 1-hour class.
 - In addition to the manuscript, the students should summarize the content of the text in some slides in order to be presented as a 7-minute "keynote". Be aware that not all keynotes will be presented, due to the lack of time.
-- Manuscripts and slides should be uploaded to the "Aula Virtual" by Abril 8, 2025.
 
 
 ## Topics
