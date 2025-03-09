@@ -15,27 +15,20 @@ Here I will upload the topics as I explain them in class. All in PDF, made with 
  ### Respiratory Diseases
  
 - Diagnosis of respiratory diseases
-<!--- - Upper respiratory infections -->
-<!--- - Lower respiratory infections: Pneumonia and Acute bronchitis -->
-<!--- - Lower Respiratory Infections: Bronchiectasis and Lung abscess -->
 - Asthma
 - COPD
-<!--- - Thromboembolic events (deep venous thrombosis and pulmonary embolism) -->
 - Sleep apnea syndrome. Ventilation disorders
 - Diseases of the pulmonary pleura
-<!--- - Lung cancer -->
 
  ### Neurology
  
-<!---  - Approach to Neurology -->
-<!--- - Cerebrovascular Diseases -->
-<!---  - Dementia and Cognitive Disorders -->
-<!---  - Seizures and Epilepsy -->
+- Parkinsonism. Parkinson's Disease 
+- Demyelinating diseases. Multiple sclerosis
+- Peripheral neuropathies
+- Diseases of the neuromuscular juncion
 
 ### Digestive Diseases
 
-<!---  - Pancreas diseases -->
-<!---  - Bile Duct Diseases -->
 - Malnutrition and Obesity
 
 ### Endocrinology
@@ -43,4 +36,4 @@ Here I will upload the topics as I explain them in class. All in PDF, made with 
 - Diabetes mellitus
 - Diseases of the thyroid gland
  
- Last updated: 14 February 2025
+ Last updated: 09 March 2025
